@@ -106,3 +106,20 @@ As a software engineer, here are 12 creators I recommend to grow fast:
 12. **Mads Brodt** - Senior Eng / Frontend lead (Become solid at frontend)
     LinkedIn: [Mads Brodt](https://www.linkedin.com/in/madsbrodt/)
 
+15 Public APIs for your front-end side project:
+
+🌤️ OpenWeatherMap API
+👩 Genderize .io
+🍔 Open food facts
+💬 Slack API
+💰 PayPal API
+🚀 NASA API
+🐙 GitHub API
+💳 Stripe API
+🤖 Reddit API
+📱 Twilio API
+👕 Shopify API
+📂 OneDrive API
+📦 Dropbox API
+🦠 VirusTotal API
+📝 Trello API
